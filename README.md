@@ -3,7 +3,7 @@ Diving within an Ecommerce Purchase Dataset on Kaggle.com and gaining valuable i
 
 Through this data analysis project, several questions were able to be answered about the customers' that could be later translated into business model changes and inform decision-making policies.
 
-The Research Questions Prompting Our Analysis:
+**The Research Questions Prompting Our Analysis:**
 1. What are the Highest and Lowest Purchase Prices?
 2. What is the Average Purchase Price?
 3. How many people speak French 'fr' as their primary Language?
